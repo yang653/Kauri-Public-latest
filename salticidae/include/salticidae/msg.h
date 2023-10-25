@@ -30,7 +30,7 @@
 // #include "salticidae/netaddr.h"
 
 #include "type.h"
-#include "tream.h"
+#include "stream.h"
 #include "netaddr.h"
 
 #ifdef __cplusplus
